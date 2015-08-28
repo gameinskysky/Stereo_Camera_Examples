@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Nii files
+cpp/
+python/
+**/*/bin
+
