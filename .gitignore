@@ -30,5 +30,5 @@
 # Nii files
 cpp/
 python/
-**/*/bin
+**/*/bin/*
 
